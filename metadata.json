@@ -1,0 +1,6 @@
+{
+  "name": "Grimoire & Grid - TTRPG Adventure Compiler & Sketch-to-Campaign Forge",
+  "description": "Complete TTRPG adventure architect: transform hand-drawn sketches into tactical maps, magic items, and NPCs; outline multi-session campaigns with GM handouts and secrets; and forge customized VTT tokens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
